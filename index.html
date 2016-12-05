@@ -1,0 +1,247 @@
+<!doctype html>
+
+<!--
+  This is a simple example / template impress.js slide show. The goal is to be
+  easier to read for a first timer than the official and very feature rich
+  demo by bartaz (http://bartaz.github.io/impress.js/). It's also a very
+  traditional presentation that looks like slides (square screens with bullet
+  points...), again to make a first timer feel more at home. From this simple
+  presentation you can then go on to more powerful impress.js presentations!
+
+  This example is hopefully helpful for people that want to create both
+  simple and (eventually) awesome presentations in impress.js and comfortable
+  doing that directly in HTML.
+
+  By: @henrikingo (Still based on the HTML from bartaz' demo.)
+
+-->
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>The Credit Union</title>
+
+    <meta name="description" content="Simple example impress.js slide show" />
+    <meta name="author" content="Henrik Ingo" />
+    <!--
+        Impress.js doesn't depend on any external stylesheets. It adds all of the styles it needs for the
+        presentation to work.
+
+        However, some of the `extras/` modules do come with their own CSS, and we load
+        them here. You can read about each extras module separately in their directory.
+    -->
+    <link rel="stylesheet" href="extras/highlight/styles/github.css">
+    <link rel="stylesheet" href="extras/mermaid/mermaid.forest.css">
+
+
+    <!--
+        This file contains styles specific for this example presentation.
+    -->
+    <link href="css/classic-slides.css" rel="stylesheet" />
+
+</head>
+
+<!--
+
+    Body element is used by impress.js to set some useful class names, that will allow you to detect
+    the support and state of the presentation in CSS or other scripts.
+
+    First very useful class name is `impress-not-supported`. This class means, that browser doesn't
+    support features required by impress.js, so you should apply some fallback styles in your CSS.
+    It's not necessary to add it manually on this element. If the script detects that browser is not
+    good enough it will add this class, but keeping it in HTML means that users without JavaScript
+    will also get fallback styles.
+
+    When impress.js script detects that browser supports all required features, this class name will
+    be removed.
+
+    Another class name on body element also depends on currently active presentation step.
+-->
+<body class="impress-not-supported">
+<!--
+    This fallback message is only visible when there is `impress-not-supported` class on body.
+-->
+<div class="fallback-message">
+    <p>Your browser <b>doesn't support the features required</b> by impress.js, so you are presented with a simplified version of this presentation.</p>
+    <p>For the best experience please use the latest <b>Chrome</b>, <b>Safari</b> or <b>Firefox</b> browser.</p>
+</div>
+
+<!--
+    This is the core element used by impress.js: the wrapper for your presentation steps.
+    In this element all the impress.js magic happens.
+
+    data-transition-duration sets the time in microseconds that is used for the
+    animation when transtitioning between slides.
+
+    data-autoplay can be used to set the time in seconds, after which presentation
+    automatically moves to next slide. It can also be set individually for each
+    slide, but here we just set a common duration for all slides.
+-->
+<div id="impress">
+
+    <!--
+        Each step of the presentation should be an element inside the `#impress` with a class name
+        of `step`. These step elements are positioned, rotated and scaled by impress.js, and
+        the 'camera' shows them on each step of the presentation.
+
+        The `id` attribute of the step element is used to identify it in the URL, but it's optional.
+        If it is not defined, it will get a default value of `step-N` where N is a number of slide.
+        This step is auto-assigned the id "step-1". You can also use `#step-1` in a link, to
+        point directly to this particular step.
+
+        Positioning information is passed through data-* attributes.
+
+        In the example below we only specify x and y position of the step element with `data-x="-1000"`
+        and `data-y="-1500"` attributes. This means that **the center** of the element (yes, the center)
+        will be positioned in point x = -1000px and y = -1500px of the presentation 'canvas'. It will not
+        be rotated or scaled.
+
+        The "step" class is what *must* be used for every "slide". In this example we also use the "slide"
+        class, which adds a rectangle with some background and makes this presentation look like a traditional
+        powerpoint slide show. The "slide" class is entirely optional and indeed you wouldn't use it for
+        your cooler impress.js presentations.
+    -->
+    <div id="step-1" class="step markdown title" data-x="-5000" data-y="-1500">
+# The Credit Union
+
+![Business Model Canvas](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Business_Model_Canvas.png/640px-Business_Model_Canvas.png "Business Model Canvas")
+
+## Rich Hildred - 2016-12-05
+    </div>
+
+    <div id="step-2" class="step markdown" data-rel-x="6500" data-rel-y="0">
+# Customer Segments
+#### For whom are we creating value?
+#### Who are our most important customers?
+
+* Low Risk Sons and Daughters of Members
+* Average age of Credit Union Member in Canada is 53 (World Council of Credit Unions)
+* Pacers represent 15% (Abacus Canadian Millennials survey)
+* Achievers represent 20%
+* Stampeders represent 10%
+* 34% percent increase in membership
+* Lower average age from 53 to 46 (40 is the median age of Canadians)
+
+Other Stats are from 2011 Canadian Census
+    </div>
+
+    <div id="step-3" class="step markdown" data-rel-x="-1800" data-rel-y="0">
+# Value Propositions
+#### What value do we deliver to the customer?
+#### Which one of our customer’s problems are we helping to solve?
+#### What bundles of products and services are we offering to each Customer Segment?
+#### Which customer needs are we satisfying?
+
+* learn about and solve younger member's problems
+* young people are 3.3 times more likely to need $2.1 B payday loans (statistics Canada)
+* help to live independently of parents
+* precarious employment with no benefits
+* start a new job with no money
+    </div>
+
+    <div id="step-4" class="step markdown" data-rel-x="900" data-rel-y="0">
+# Customer Relationships
+#### What type of relationship does each of our Customer Segments expect us to establish and maintain with them?
+#### Which ones have we established?
+#### How are they integrated with the rest of our business model?
+#### How costly are they?
+
+* providing a more intimate, personal experience (World Council of Credit Unions)
+* millennial members are first class members
+* collaborative innovation
+* finances go a little better between members
+* millenials on staff and on board
+* they recruit other members to sustain our Credit Union
+    </div>
+    <div id="step-5" class="step markdown" data-rel-x="0" data-rel-y="700">
+# Channels
+#### Through which Channels do our Customer Segments want to be reached?
+#### How are we reaching them now?
+#### How are our Channels integrated?
+#### Which ones work best?
+#### Which ones are most cost-efficient?
+#### How are we integrating them with customer routines?
+    </div>
+    <div id="step-6" class="step markdown" data-rel-x="-450" data-rel-y="700">
+# Revenue Streams
+#### For what value are our customers really willing to pay?
+#### For what do they currently pay?
+#### How are they currently paying?
+#### How would they prefer to pay?
+#### How much does each Revenue Stream contribute to overall revenues?
+    </div>
+    <div id="step-7" class="step markdown" data-rel-x="-1350" data-rel-y="-700">
+# Key Resources
+#### What Key Resources do our Value Propositions require?
+#### Our Distribution Channels? Customer Relationships?
+#### Revenue Streams?
+    </div>
+    <div id="step-8" class="step markdown" data-rel-x="0" data-rel-y="-700">
+# Key Activities
+#### What Key Activities do our Value Propositions require?
+#### Our Distribution Channels?
+#### Customer Relationships?
+#### Revenue streams?
+    </div>
+    <div id="step-9" class="step markdown" data-rel-x="-900" data-rel-y="0">
+# Key Partners
+#### Who are our Key Partners?
+#### Who are our key suppliers?
+#### Which Key Resources are we acquiring from partners?
+#### Which Key Activities do partners perform?
+    </div>
+    <div id="step-10" class="step markdown" data-rel-x="0" data-rel-y="1400">
+# Cost Structure
+#### What are the most important costs inherent in our business model?
+#### Which Key Resources are most expensive?
+#### Which Key Activities are most expensive?
+    </div>
+   <!-- This last, empty "slide" is set to be very large using the data-scale attribute,
+         so that it covers all the other slides you just saw.
+         It's a common way of zooming out at the end, to show the whole presentation.
+         In CSS, we set pointer-events:none to make this slide non-clickable.
+         It makes a difference at least for SVG content, such as the mermaid diagram. -->
+    <div id="overview" class="step" data-x="-350" data-y="-1100" data-scale="3">
+        <h1>Survival Depends on Action</h1>
+    </div>
+
+
+</div>
+
+<!--
+    Add navigation-ui controls: back, forward and a select list.
+    Add a progress indicator bar (current step / all steps)
+    Add the help popup plugin
+-->
+<div id="impress-toolbar"></div>
+
+<div class="impress-progressbar"><div></div></div>
+<div class="impress-progress"></div>
+
+<div id="impress-help"></div>
+
+<!-- Extra modules
+     Load highlight.js, mermaid.js and markdown.js from extras.
+     If you're curious about details, these are initialized in src/plugins/extras/extras.js -->
+<script type="text/javascript" src="../../extras/highlight/highlight.pack.js"></script>
+<script type="text/javascript" src="../../extras/mermaid/mermaid.min.js"></script>
+<script type="text/javascript" src="../../extras/markdown/markdown.js"></script>
+<script type="text/javascript" src="../../extras/impress-console/js/impressConsole.js"></script>
+<script type="text/javascript">
+  // For impressConsole, we unfortunately must also set the path to a mandatory css file
+  // which is relative to this html file.
+  // See https://github.com/regebro/impress-console/issues/19
+  var impressConsoleCss = '../../extras/impress-console/css/impressConsole.css';
+</script>
+
+
+<!--
+    To make all described above really work, you need to include impress.js in the page.
+    You also need to call a `impress().init()` function to initialize impress.js presentation.
+    And you should do it in the end of your document.
+-->
+<script type="text/javascript" src="js/impress.js"></script>
+<script>impress().init();</script>
+
+</body>
+</html>
