@@ -1,3 +1,5 @@
+<style> h4{font-size:40%}</style>
+
 # The Credit Union
 
 ![Business Model Canvas](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Business_Model_Canvas.png/640px-Business_Model_Canvas.png "Business Model Canvas")
@@ -6,9 +8,9 @@
 
 This presentation is a set of hypotheses for member development by Ontario Credit Unions. The average age of credit union members in Canada is 53. The average age in Canada is 40. If the hypothesis are valid then the average member age could be lowered to 46. This presentation is set up as a [business model canvas here](https://salesucation.github.io/business-model-canvas-credit-unions/). I have the fire in my belly about this for 2 reasons.
 
-Every winter I go to a canoe symposium at Monarch park Collegiate. When I first started going about 10 years ago. I thought it was interesting that my demographic (late boomer early gen-x) was predominant. I started my family young and my daughter started coming with me. She hung out with my buddy's (mid boomer started family late) daughter. The last few years have been saddened by the primary organizer's battle with cancer and passing. My buddy's and my daughters give me hope that this institution won't pass with my generation.
+Every winter I go to a canoe symposium at Monarch park Collegiate. When I first started going about 10 years ago. I thought it was interesting that my demographic (late boomer early gen-x) was predominant. I started my family young and my adult daughter started coming with me. She hung out with my buddy's (mid boomer started family late) daughter. The last few years have been saddened by the primary organizer's battle with cancer and passing. My buddy's and my daughters give me hope that this institution won't pass with my generation.
 
-2 of my 4 offspring need a lot of help. I spent almost 20 years working for a multinational company with benefits. Even when I left to pursue my dream of teaching I got benefits, first of all through my graduate student's association and then through the college. I also teach at the University level where I have no benefits. This is an issue that has my union at the university poised for a strike. The only union that may be available to look out for the interests of my sons and daughter might be a credit union. Even though most of my friends share my predicament I am basically on my own to help my kids. It would be a real hopeful thing if we could work as members of a union to help each other.
+2 of my 4 offspring need a lot of help. I spent almost 20 years working for a multinational company with benefits. Even when I left to pursue my dream of teaching I got benefits. First of all through my graduate student's association and then through the college. I also teach at the University level where I have no benefits. This is an issue that has my union at the university poised for a strike. The only union that may be available to look out for the interests of my sons and daughter might be a credit union. Even though most of my friends share my predicament I am basically on my own to help my kids. It would be a real hopeful thing if we could work as members of a union to help each other.
 
 Please keep reading to see why I think that this also makes a lot of business sense for my credit Union (Meridian).
 
