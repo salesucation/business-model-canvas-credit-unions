@@ -1,5 +1,3 @@
-<style> h4{font-size:40%}</style>
-
 # The Credit Union
 
 ![Business Model Canvas](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Business_Model_Canvas.png/640px-Business_Model_Canvas.png "Business Model Canvas")
@@ -15,8 +13,8 @@ Every winter I go to a canoe symposium at Monarch park Collegiate. When I first 
 Please keep reading to see why I think that this also makes a lot of business sense for my credit Union (Meridian).
 
 # Customer Segments
-#### For whom are we creating value?
-#### Who are our most important customers?
+*For whom are we creating value?*
+*Who are our most important customers?*
 
 * Low Risk Sons and Daughters of Members
 * Average age of Credit Union Member in Canada is 53 (World Council of Credit Unions)
@@ -29,10 +27,10 @@ Please keep reading to see why I think that this also makes a lot of business se
 Other Stats are from 2011 Canadian Census
 
 # Value Propositions
-#### What value do we deliver to the customer?
-#### Which one of our customer’s problems are we helping to solve?
-#### What bundles of products and services are we offering to each Customer Segment?
-#### Which customer needs are we satisfying?
+*What value do we deliver to the customer?*
+*Which one of our customer’s problems are we helping to solve?*
+*What bundles of products and services are we offering to each Customer Segment?*
+*Which customer needs are we satisfying?*
 * Learn about and solve younger member's problems
 * Young people are 3.3 times more likely to need $2.1 B payday loans (statistics Canada)
 * Help to live independently of parents
