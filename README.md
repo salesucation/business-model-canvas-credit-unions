@@ -38,10 +38,10 @@ Other Stats are from 2011 Canadian Census
 * Start a new job with no money
 
 # Customer Relationships
-#### What type of relationship does each of our Customer Segments expect us to establish and maintain with them?
-#### Which ones have we established?
-#### How are they integrated with the rest of our business model?
-#### How costly are they?
+*What type of relationship does each of our Customer Segments expect us to establish and maintain with them?*
+*Which ones have we established?*
+*How are they integrated with the rest of our business model?*
+*How costly are they?*
 * Providing a more intimate, personal experience (World Council of Credit Unions)
 * Millennial members are first class members
 * Collaborative innovation
@@ -50,12 +50,12 @@ Other Stats are from 2011 Canadian Census
 * They recruit other members to sustain our Credit Union
 
 # Channels
-#### Through which Channels do our Customer Segments want to be reached?
-#### How are we reaching them now?
-#### How are our Channels integrated?
-#### Which ones work best?
-#### Which ones are most cost-efficient?
-#### How are we integrating them with customer routines?
+*Through which Channels do our Customer Segments want to be reached?*
+*How are we reaching them now?*
+*How are our Channels integrated?*
+*Which ones work best?*
+*Which ones are most cost-efficient?*
+*How are we integrating them with customer routines?*
 * Millennials use messaging apps
 * Credit Union's mobile solution is apps
 * Apps are integrated with web banking - not call center and branches
@@ -63,45 +63,45 @@ Other Stats are from 2011 Canadian Census
 * Chat user interface brings member relationship to mobile
 
 # Revenue Streams
-#### For what value are our customers really willing to pay?
-#### For what do they currently pay?
-#### How are they currently paying?
-#### How would they prefer to pay?
-#### How much does each Revenue Stream contribute to overall revenues?
+*For what value are our customers really willing to pay?*
+*For what do they currently pay?*
+*How are they currently paying?*
+*How would they prefer to pay?*
+*How much does each Revenue Stream contribute to overall revenues?*
 * Millennials need the same things that their parents did so interest on deposits and borrowing still apply
 * Many Millennials face precarious employment
 * By partnering with the Cooperators Meridian Credit Union is creating opportunities to also serve members with insurance products that their parents would have gotten from jobs
 * Taking revenue away from payday loan companies
 
 # Key Resources
-#### What Key Resources do our Value Propositions require?
-#### Our Distribution Channels? Customer Relationships?
-#### Revenue Streams?
+*What Key Resources do our Value Propositions require?*
+*Our Distribution Channels? Customer Relationships?*
+*Revenue Streams?*
 * Primarily a secure way for members to communicate and build relationships with member service reps.
 * CUI transactions for everyday banking
 * Technical Support for members
 
 # Key Activities
-#### What Key Activities do our Value Propositions require?
-#### Our Distribution Channels?
-#### Customer Relationships?
-#### Revenue streams?
+*What Key Activities do our Value Propositions require?*
+*Our Distribution Channels?*
+*Customer Relationships?*
+*Revenue streams?*
 * Initially concierge model from Eric Ries Lean Startup
 * Use customer development to build the solution with the help of members
 * Emphasis on dealing with a person
 * Person supported by technology
 
 # Key Partners
-#### Who are our Key Partners?
-#### Who are our key suppliers?
-#### Which Key Resources are we acquiring from partners?
-#### Which Key Activities do partners perform?
+*Who are our Key Partners?*
+*Who are our key suppliers?*
+*Which Key Resources are we acquiring from partners?*
+*Which Key Activities do partners perform?*
 * Technology partners for messaging interface
 
 # Cost Structure
-#### What are the most important costs inherent in our business model?
-#### Which Key Resources are most expensive?
-#### Which Key Activities are most expensive?
+*What are the most important costs inherent in our business model?*
+*Which Key Resources are most expensive?*
+*Which Key Activities are most expensive?*
 * Cost of developing transactions
 * Could be coopetition
 * Transactions could be shared with other institutions
